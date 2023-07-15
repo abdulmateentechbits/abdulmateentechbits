@@ -9,8 +9,15 @@
   <a href="https://twitter.com/mateenchitrali"><img src="https://img.shields.io/badge/Twitter-blue" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/abdulmateenchitrali/"><img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn"></a>
 </p>
-
+<!-- Add the audio player here -->
 <p align="center">
+  <audio controls>
+    <source src="https://github.com/abdulmateentechbits/abdulmateentechbits/blob/master/Relaxing%20Music%20(No%20Copyright)%20-%20_Shine_%20by%20Onycs.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</p>
+
+<p align="left">
   Welcome to my GitHub profile! I'm a skilled 𝙍𝙚𝙖𝙘𝙩 𝙉𝙖𝙩𝙞𝙫𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 specializing in 𝙢𝙤𝙗𝙞𝙡𝙚 𝙖𝙥𝙥 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 𝙖𝙣𝙙 𝙢𝙖𝙞𝙣𝙩𝙚𝙣𝙖𝙣𝙘𝙚. With expertise in 𝙋𝙡𝙖𝙮 𝙎𝙩𝙤𝙧𝙚 𝙖𝙣𝙙 𝘼𝙥𝙥 𝙎𝙩𝙤𝙧𝙚 𝙖𝙥𝙥 maintenance, I ensure that your apps are up to date, fully functional, and optimized for the best user experience.
 
 My top priority is keeping your mobile apps running smoothly and ensuring they are compatible with the latest operating systems and devices. I have a proven track record of efficiently updating React 𝙍𝙚𝙖𝙘𝙩 𝙉𝙖𝙩𝙞𝙫𝙚 𝙖𝙥𝙥𝙨 to the latest versions, incorporating new features and enhancements while preserving stability.

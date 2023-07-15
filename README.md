@@ -5,9 +5,9 @@
 <h1 align="center">👋 Hi! I'm Abdul Mateen 👋</h1>
 
 <p align="center">
-  <a href="https://techibits.com/abdul-mateen/"><img src="https://img.shields.io/badge/techibits.com/abdul-mateen-blue" alt="Website"></a>
-  <a href="https://twitter.com/mateenchitrali"><img src="https://img.shields.io/badge/Twitter-%40YourTwitterHandle-blue" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/abdulmateenchitrali/"><img src="https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue" alt="LinkedIn"></a>
+  <a href="https://techibits.com/abdul-mateen/"><img src="https://img.shields.io/badge/Portfolio-blue" alt="Website"></a>
+  <a href="https://twitter.com/mateenchitrali"><img src="https://img.shields.io/badge/Twitter-blue" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/abdulmateenchitrali/"><img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn"></a>
 </p>
 
 <p align="center">

@@ -80,7 +80,7 @@ Feel free to explore the repository, follow the installation instructions, and a
 ---
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo/raw/main/assets/stats.gif" alt="Stats">
+  <img src="https://github.com/abdulmateentechbits/your-repo/raw/main/assets/stats.gif" alt="Stats">
 </p>
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
@@ -96,7 +96,7 @@ Feel free to explore the repository, follow the installation instructions, and a
 ---
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo/raw/main/assets/contributions.gif" alt="Contributions">
+  <img src="https://github.com/abdulmateentechbits/your-repo/raw/main/assets/contributions.gif" alt="Contributions">
 </p>
 
 <h2 align="center">🤝 Contributions & Open Source 🤝</h2>

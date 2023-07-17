@@ -124,5 +124,6 @@ Once again, thank you for your interest and I look forward to hearing from you s
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/abdulmateentechbits/count.svg" alt="Visitor Count">
+ <--- <img src="https://profile-counter.glitch.me/abdulmateentechbits/count.svg" alt="Visitor Count"> --->
+   <img src="https://komarev.com/ghpvc/?username=abdulmateentechbits" alt="Visitor Count">
 </p>

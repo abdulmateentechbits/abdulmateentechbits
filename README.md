@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi! I'm Abdul Mateen 👋</h1>
-
+<img src="https://komarev.com/ghpvc/?username=abdulmateentechbits&label=DAILY+PROFILE+VIEWS" alt="Visitor Count">
 <p align="center">
   <a href="https://techibits.com/abdul-mateen/"><img src="https://img.shields.io/badge/Portfolio-blue" alt="Website"></a>
   <a href="https://twitter.com/mateenchitrali"><img src="https://img.shields.io/badge/Twitter-blue" alt="Twitter"></a>
@@ -125,5 +125,4 @@ Once again, thank you for your interest and I look forward to hearing from you s
 
 <p align="center">
 <img src="https://profile-counter.glitch.me/abdulmateentechbits/count.svg" alt="Visitor Count">
- <img src="https://komarev.com/ghpvc/?username=abdulmateentechbits&label=DAILY+PROFILE+VIEWS" alt="Visitor Count"> 
 </p>

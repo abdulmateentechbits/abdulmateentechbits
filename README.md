@@ -101,9 +101,9 @@ Feel free to explore the repository, follow the installation instructions, and a
 
 <h2 align="center">🤝 Contributions & Open Source 🤝</h2>
 
-<p align="center">
+<!---<p align="center">
   Describe your involvement in open source projects, contributions made, and any notable achievements or recognition received. Encourage others to collaborate or contribute to open source as well.
-</p>
+</p> --->
 
 ---
 

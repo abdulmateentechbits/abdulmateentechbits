@@ -80,7 +80,7 @@ Feel free to explore the repository, follow the installation instructions, and a
 ---
 <p align="center">React Native + Firebase Real-time Database Chat App</p>
 <p align="center">
- <div style="max-height:300px; overflow: hidden;">
+ <div style="max-height:100px; overflow: hidden;">
     <img src="https://raw.githubusercontent.com/abdulmateentechbits/React-native-chatapp/master/chatList.png" style="height:100%;" alt="Chat app.png">
  </div>
 </p>

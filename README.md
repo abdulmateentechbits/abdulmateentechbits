@@ -78,13 +78,14 @@ Feel free to explore the repository, follow the installation instructions, and a
 
 
 ---
-<p align="center">React native + firebase real time data base chat app </p>
+<p align="center">React Native + Firebase Real-time Database Chat App</p>
 <p align="center">
- <div style="height:300px;">
+ <div style="max-height:300px; overflow: hidden;">
     <img src="https://raw.githubusercontent.com/abdulmateentechbits/React-native-chatapp/master/chatList.png" style="height:100%;" alt="Chat app.png">
  </div>
 </p>
-<p align="center">Repo: <a href="https://github.com/abdulmateentechbits/React-native-chatapp">React Native Chat App</a> </p>
+<p align="center">Repo: <a href="https://github.com/abdulmateentechbits/React-native-chatapp">React Native Chat App</a></p>
+
 
 
 <p align="center">

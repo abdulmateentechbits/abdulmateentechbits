@@ -16,6 +16,10 @@
     Your browser does not support the audio element.
   </audio>
 </p>
+<p>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="abdulmateenchitrali" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/abdulmateenchitrali?trk=profile-badge">Abdul Mateen</a></div>
+              
+</p>
 
 <p align="left">
   Welcome to my GitHub profile! I'm a skilled 𝙍𝙚𝙖𝙘𝙩 𝙉𝙖𝙩𝙞𝙫𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 specializing in 𝙢𝙤𝙗𝙞𝙡𝙚 𝙖𝙥𝙥 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 𝙖𝙣𝙙 𝙢𝙖𝙞𝙣𝙩𝙚𝙣𝙖𝙣𝙘𝙚. With expertise in 𝙋𝙡𝙖𝙮 𝙎𝙩𝙤𝙧𝙚 𝙖𝙣𝙙 𝘼𝙥𝙥 𝙎𝙩𝙤𝙧𝙚 𝙖𝙥𝙥 maintenance, I ensure that your apps are up to date, fully functional, and optimized for the best user experience.

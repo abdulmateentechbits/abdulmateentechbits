@@ -45,8 +45,9 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 <p align="center">
   I am passionate about open source development and have actively contributed to various projects. My journey in the open source community has been incredibly rewarding, marked by collaboration, learning, and growth.
 
- My contributions include:
-  - [Fast downloader with download booster for react native](https://www.npmjs.com/package/react-native-background-downloader-plus):
+ My contribution include:
+   <img src="https://raw.githubusercontent.com/abdulmateentechbits/abdulmateentechbits/master/bg%20downlaoder.png" width="150px" heigth="150px" />
+   [Fast downloader with download booster for react native](https://www.npmjs.com/package/react-native-background-downloader-plus):
      A library for React-Native to help you download large files on iOS and Android both in the foreground 
      and most importantly in the background.
   

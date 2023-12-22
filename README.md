@@ -45,16 +45,19 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 <p align="center">
   I am passionate about open source development and have actively contributed to various projects. My journey in the open source community has been incredibly rewarding, marked by collaboration, learning, and growth.
 
- My contribution include:
-   <img src="https://raw.githubusercontent.com/abdulmateentechbits/abdulmateentechbits/master/bg%20downlaoder.png" width="150px" heigth="150px" />
-   [Fast downloader with download booster for react native](https://www.npmjs.com/package/react-native-background-downloader-plus):
-     A library for React-Native to help you download large files on iOS and Android both in the foreground 
-     and most importantly in the background.
+  My contribution includes:
   
-      I believe in the power of collaboration and welcome developers from all backgrounds to join hands. Together, we can create impactful solutions and shape the future of technology. Whether you're a seasoned developer or just 
-      starting, your contributions are valuable.
-     If you're interested in contributing to this project or have ideas to enhance it, please feel free to open an issue, submit a pull request, or reach out to me directly. Let's build something amazing together!
+  <a href="https://www.npmjs.com/package/react-native-background-downloader-plus">
+    <img src="https://raw.githubusercontent.com/abdulmateentechbits/abdulmateentechbits/master/bg%20downlaoder.png" width="150px" height="150px" alt="Library Image" />
+  </a>
+
+  [Fast downloader with download booster for react native](https://www.npmjs.com/package/react-native-background-downloader-plus): A library for React-Native to help you download large files on iOS and Android both in the foreground and most importantly in the background.
+  
+  I believe in the power of collaboration and welcome developers from all backgrounds to join hands. Together, we can create impactful solutions and shape the future of technology. Whether you're a seasoned developer or just starting, your contributions are valuable.
+
+  If you're interested in contributing to this project or have ideas to enhance it, please feel free to open an issue, submit a pull request, or reach out to me directly. Let's build something amazing together!
 </p>
+
 
 ---
 

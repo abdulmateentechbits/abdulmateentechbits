@@ -40,7 +40,7 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 </p>
 
 
-<h2 align="center">🤝 Contributions & Open Source 🤝</h2>
+<h2>🤝 Contributions & Open Source 🤝</h2>
 
 <p align="center">
   I am passionate about open source development and have actively contributed to various projects. My journey in the open source community has been incredibly rewarding, marked by collaboration, learning, and growth.

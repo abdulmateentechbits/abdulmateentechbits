@@ -63,7 +63,7 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 <p>
   Measure text accurately before laying it out and get font information from your App (Android and iOS).
 </p>
-<p>Explore here <a href="https://www.npmjs.com/package/react-native-text-size-latest" target="blank">React Native Text Size Lates</a></p>
+<p>Explore here <a href="https://www.npmjs.com/package/react-native-text-size-latest" target="blank">React Native Text Size Latest</a></p>
 
 
 ---

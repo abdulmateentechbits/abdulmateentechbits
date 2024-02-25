@@ -22,19 +22,14 @@
 </p>
 
 <p align="left">
-  Welcome to my GitHub profile! I'm a skilled 𝙍𝙚𝙖𝙘𝙩 𝙉𝙖𝙩𝙞𝙫𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 specializing in 𝙢𝙤𝙗𝙞𝙡𝙚 𝙖𝙥𝙥 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 𝙖𝙣𝙙 𝙢𝙖𝙞𝙣𝙩𝙚𝙣𝙖𝙣𝙘𝙚. With expertise in 𝙋𝙡𝙖𝙮 𝙎𝙩𝙤𝙧𝙚 𝙖𝙣𝙙 𝘼𝙥𝙥 𝙎𝙩𝙤𝙧𝙚 𝙖𝙥𝙥 maintenance, I ensure that your apps are up to date, fully functional, and optimized for the best user experience.
+ A React Native Developer with 3 years of dedicated experience, professional well-versed in crafting robust and user-centric mobile applications for both iOS and Android platforms. My extensive expertise includes proficiently leveraging React Native's capabilities, optimizing performance, ensuring seamless UI/UX, and collaborating seamlessly within cross-functional teams to deliver high-quality, scalable mobile solutions.
 
-My top priority is keeping your mobile apps running smoothly and ensuring they are compatible with the latest operating systems and devices. I have a proven track record of efficiently updating React 𝙍𝙚𝙖𝙘𝙩 𝙉𝙖𝙩𝙞𝙫𝙚 𝙖𝙥𝙥𝙨 to the latest versions, incorporating new features and enhancements while preserving stability.
+My recent project live on stores:
+Wellness app: https://play.google.com/store/apps/details?id=com.ls.wellnessapp&hl=en&gl=US
+ERP APP: https://play.google.com/store/apps/details?id=com.myreserp.paragon.fm.app
 
-In addition to my mobile app focus, I possess in-depth knowledge of 𝙍𝙚𝙖𝙘𝙩.𝙟𝙨, 𝙉𝙚𝙭𝙩.𝙟𝙨, and 𝙇𝙖𝙧𝙖𝙫𝙚𝙡. Leveraging these technologies, I develop robust and performant web applications that seamlessly integrate with your mobile apps. By prioritizing mobile app maintenance first, I ensure that your entire digital ecosystem remains up to date, providing a consistent and user-friendly experience across platforms.
-
-I thrive on collaborating with clients to understand their unique requirements and provide tailored solutions. As an experienced React Native Developer, I excel in creating new features, enhancing app performance, and troubleshooting issues. With a commitment to delivering top-notch service and ensuring timely project completion, I prioritize client satisfaction.
-
-Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 𝙖𝙥𝙥 𝙢𝙖𝙞𝙣𝙩𝙚𝙣𝙖𝙣𝙘𝙚 needs and help you stay ahead in the ever-evolving digital landscape.
-
-<b>Here, you'll find a collection of my projects, contributions, and explorations in the world of coding and beyond.</b>
-</p>
-
+Tech Stack
+React Native,TypeScript, JavaScript,Reactjs, ContextAPI, Redux, MobX, JEST, Maestro,AWS Amplify,Play Store and App store management, Contribute with react native open source
 <p align="center">
   Let's connect and collaborate! Feel free to reach out via email or any of the social links above.
 </p>

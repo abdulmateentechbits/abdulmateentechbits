@@ -25,8 +25,12 @@
  A React Native Developer with 3 years of dedicated experience, professional well-versed in crafting robust and user-centric mobile applications for both iOS and Android platforms. My extensive expertise includes proficiently leveraging React Native's capabilities, optimizing performance, ensuring seamless UI/UX, and collaborating seamlessly within cross-functional teams to deliver high-quality, scalable mobile solutions.
 
 My recent project live on stores:
-Wellness app: https://play.google.com/store/apps/details?id=com.ls.wellnessapp&hl=en&gl=US
-ERP APP: https://play.google.com/store/apps/details?id=com.myreserp.paragon.fm.app
+<p>
+  Wellness app: https://play.google.com/store/apps/details?id=com.ls.wellnessapp&hl=en&gl=US
+</p>
+<p>
+  ERP APP: https://play.google.com/store/apps/details?id=com.myreserp.paragon.fm.app
+</p>
 
 Tech Stack
 React Native,TypeScript, JavaScript,Reactjs, ContextAPI, Redux, MobX, JEST, Maestro,AWS Amplify,Play Store and App store management, Contribute with react native open source

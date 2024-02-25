@@ -32,7 +32,7 @@ My recent project live on stores:
   ERP APP: https://play.google.com/store/apps/details?id=com.myreserp.paragon.fm.app
 </p>
 
-Tech Stack
+<h1>Tech Stack</h1>
 React Native,TypeScript, JavaScript,Reactjs, ContextAPI, Redux, MobX, JEST, Maestro,AWS Amplify,Play Store and App store management, Contribute with react native open source
 <p align="center">
   Let's connect and collaborate! Feel free to reach out via email or any of the social links above.

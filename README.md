@@ -39,10 +39,10 @@ I am a **Full Stack Developer & Mobile App Specialist** with 3+ years of profess
 ---
 
 ### 🔐 Cybersecurity + Bug Bounty Journey  
-Currently on **Week 2** of my structured roadmap:  
+Courses completed so far 
 
-- ✅ Week 1: Cybersecurity Basics (Cisco Intro, TryHackMe, Kali Setup)  
-- 🔄 Week 2: Networking + Web Fundamentals (HTTP/DNS, Bandit, Wireshark)  
+- ✅ Cybersecurity Full Course for Beginners – Simplilearn Completed
+- ✅ Cisco – Introduction to Cybersecurity (free course)  Completed
 - 🎯 Upcoming: OWASP Top 10, Bug Bounty Tools, Practice Labs & Reporting  
 
 📚 Actively practicing on **TryHackMe, PortSwigger Academy, and DVWA/Juice Shop**.  
